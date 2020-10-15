@@ -1,14 +1,14 @@
 {
-  "URL": "192.168.31.29:10429",
-  "HeartbeatHost": "192.168.31.29",
+  "URL": "127.0.0.1:10429",
+  "HeartbeatHost": "127.0.0.1",
   "HeartbeatPort": 10430,
   "TimeKey": "__BasiCABCKey.",
   "QQframeRestartThreshold": 20,
   "ID": 1,
-  "QQID": "3480164230",
+  "QQID": "123456",
   "Nick": "Cody",
   "ManagingGroups": [
-    "654219894",
-    "714850731"
+    "123456789",
+    "888888888"
   ]
 }

@@ -11,6 +11,7 @@ Notice that the API has a watchdog that keeps the lower API alive, it needs to b
 # USAGE
 
 <strong> Do make sure you have started 小栗子 QQ frame with HTTPAPI plugin installed </strong>
+
 <strong> If you haven't done that, go to https://bbs.xiaolz.cn/forum.php </strong>
 
   1. edit the config file

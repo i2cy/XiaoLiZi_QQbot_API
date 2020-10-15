@@ -1,6 +1,6 @@
 # NOTICE
 
-This is an private built API but I made it open source now, so the code may not be that generalized.
+This is an private built API but I made it open source now, so the code may not be that generalized. You may need to modify the code before any uses.
 
 It is a QQ API written in Python based on 小栗子 QQ frame with HTTPAPI plugin installed, so you will have those installed to make it work.
 
